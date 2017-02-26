@@ -25,7 +25,7 @@ SECRET_KEY = 'h^ru-o4!x%w#r)^xfor4-*ks-r%o%r$b$8ukw3mr6tb&dyudtt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://m4r0x2.pythonanywhere.com/']
 
 
 # Application definition
